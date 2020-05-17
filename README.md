@@ -1,2 +1,2 @@
 # ml-fundamentals
-Journey documenting me learning ML - to also act as a backup.
+Codebase of for all ML concepts I know.

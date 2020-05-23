@@ -1,15 +1,19 @@
 absl-py==0.9.0
 astunparse==1.6.3
+attrs==19.3.0
 cachetools==4.0.0
 certifi==2019.11.28
 chardet==3.0.4
 click==7.1.1
 cycler==0.10.0
+dill==0.3.1.1
 Flask==1.1.2
+future==0.18.2
 gast==0.3.3
 google-auth==1.11.3
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
+googleapis-common-protos==1.51.0
 grpcio==1.27.2
 h5py==2.10.0
 idna==2.9
@@ -28,6 +32,7 @@ oauthlib==3.1.0
 opt-einsum==3.2.0
 pandas==1.0.3
 perceptron==1.1.0
+promise==2.3
 protobuf==3.11.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
@@ -46,7 +51,9 @@ six==1.14.0
 sklearn==0.0
 tensorboard==2.1.1
 tensorflow==2.2.0rc1
+tensorflow-datasets==3.1.0
 tensorflow-estimator==2.2.0rc0
+tensorflow-metadata==0.22.0
 termcolor==1.1.0
 tqdm==4.45.0
 urllib3==1.25.8

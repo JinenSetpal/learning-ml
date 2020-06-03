@@ -17,6 +17,7 @@ googleapis-common-protos==1.51.0
 grpcio==1.27.2
 h5py==2.10.0
 idna==2.9
+imageio==2.8.0
 itsdangerous==1.1.0
 Jinja2==2.11.2
 joblib==0.14.1
@@ -32,6 +33,7 @@ oauthlib==3.1.0
 opt-einsum==3.2.0
 pandas==1.0.3
 perceptron==1.1.0
+Pillow==7.1.2
 promise==2.3
 protobuf==3.11.3
 pyasn1==0.4.8

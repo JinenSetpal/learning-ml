@@ -1,2 +1,2 @@
 # ml-fundamentals
-Codebase of for learnt ML concepts.
+Codebase for learnt ML concepts.
